@@ -75,8 +75,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aishwarya7902&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="Aishwarya7902" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aishwarya7902&theme=whatsapp-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aishwarya7902&theme=hacker)](https://git.io/streak-stats)
 
 
 
